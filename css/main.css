@@ -185,18 +185,19 @@ font-size: 1.3rem;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom:40px
+  margin-bottom:70px
 }
 
 .toggle-pricing .type{
-  color:var(--light-grayish-blue)
+  color:var(--light-grayish-blue);
+
 }
 .toggle-pricing .type:first-child{
-margin-right: 10px;
+margin-right: 20px;
 }
 
 .toggle-pricing .type:last-child{
-margin-left:10px ;
+margin-left:20px ;
 }
 
 
